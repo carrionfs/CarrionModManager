@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Virtual Environment
+venv/
+env/
+carrion_release/
+
+# VSCode
+.vscode/
+
+# Config
+config.json
