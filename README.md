@@ -39,7 +39,7 @@ CarrionModManager/
 
 ## 📸 Screenshots
 
-![screenshot](assets/screenshots/profile_page.png)
+![screenshot](assets/Screenshots/profile_page.png)
 
 ## 🛠 Built With
 
