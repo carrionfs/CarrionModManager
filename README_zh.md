@@ -29,13 +29,14 @@
 3. 双击 `CarrionModManager.exe` 启动程序
 
 ## 📁 文件结构
-CarrionModManager/
-├── CarrionModManager.exe
-├── assets/
-├── data/
-├── GUI/
-├── core/
-└── README_zh.md
+CarrionModManager/  
+├── App_entry.py  
+├── main_UI.py  
+├── assets/    
+├── data/    
+├── GUI/    
+├── core/  
+└── README_zh.md  
 
 ## 📸 界面截图
 
