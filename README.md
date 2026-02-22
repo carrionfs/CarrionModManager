@@ -29,13 +29,14 @@ No Python required! Just download and run the `.exe` file.
 3. Double-click `CarrionModManager.exe` to launch
 
 ## 📁 Folder Structure
-CarrionModManager/
-├── CarrionModManager.exe
-├── assets/
-├── data/
-├── GUI/
-├── core/
-└── README.md
+CarrionModManager/  
+├── App_entry.py  
+├── main_UI.py  
+├── assets/    
+├── data/    
+├── GUI/    
+├── core/  
+└── README.md  
 
 ## 📸 Screenshots
 
