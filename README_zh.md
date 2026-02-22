@@ -39,7 +39,7 @@ CarrionModManager/
 
 ## 📸 界面截图
 
-![截图](assets/screenshots/profile_page.png)
+![截图](assets/Screenshots/profile_page.png)
 
 ## 🛠 技术栈
 
