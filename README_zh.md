@@ -52,6 +52,11 @@ CarrionModManager/
 
 本项目采用 MIT 协议开源。
 
+## 📺 视频教程
+
+你可以在b站/抖音/小红书的@一觉不醒了Zz 看这个模组管理器的使用指北~
+The Link👉： [【星露谷】Fluent风格的星露谷Mod管理器使用指北](https://www.bilibili.com/video/BV1tQfBBMEaQ/)
+
 
 ---
 
