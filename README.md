@@ -52,7 +52,10 @@ CarrionModManager/
 
 This project is released under the MIT License.
 
+## 📺 Video Tutorial
 
+you can watch the user guide video on bilibili/Tiktok for mainland/The Red book @一觉不醒了Zz
+The Link👉： [【星露谷】Fluent风格的星露谷Mod管理器使用指北](https://www.bilibili.com/video/BV1tQfBBMEaQ/)
 
 
 
